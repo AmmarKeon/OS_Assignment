@@ -20,7 +20,8 @@ each folder has:
 5. Exercise 5 has an extra Task, follows the same idea for the main exercise folders.
 ***
 **Main Folder also contains two files** `explainLinker` **and** `explainLoader` **they are answering the questions in the assignment file.**
-**also contains the Makefile and License**
+
+**Also contains the Makefile and License**
 
 ***
 ## License
