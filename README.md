@@ -3,8 +3,8 @@
 ***
 
 ### Prerequisites
-To compile the following exercises, and run the Makefile
-you need GCC.
+To compile the following exercises, and run the Makefile, you need GCC.
+
 to install GCC on Linux:
 ```
 sudo apt install gcc
