@@ -6,7 +6,9 @@
 To compile the following exercises, and run the Makefile
 you need GCC.
 to install GCC on Linux:
-``` sudo apt install gcc ```
+```
+sudo apt install gcc
+```
 
 **Project Structure**
 there are `exercise` folder for each exercise in Lab 5.
