@@ -21,7 +21,7 @@ each folder has:
 ***
 **Main Folder also contains two files** `explainLinker` **and** `explainLoader` **they are answering the questions in the assignment file.**
 
-**Also contains the Makefile and License**
+**Also contains the Makefile and License.**
 
 ***
 ## License
