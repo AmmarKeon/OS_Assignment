@@ -1,0 +1,2 @@
+i made a simple program with printf() used, and then we used ldd.
+ldd shows me which dependencies are loaded, like a dependancy that we need to run the printf() function.

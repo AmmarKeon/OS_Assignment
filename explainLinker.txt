@@ -1,0 +1,4 @@
+from my understading the job of a linker is to link parts of code from different files, without it, there wouldn't be a way to link two files, 
+if one file has certain functions that is called in the second folder, it wouldn't work.
+linker makes all the files that are needed, and links them so any function call from a different file, works during compile time.
+

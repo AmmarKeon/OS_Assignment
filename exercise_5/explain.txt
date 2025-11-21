@@ -1,0 +1,4 @@
+this exercise wanted me to link 2 files, file1.c and file2.c.
+and then i ran both and compiled it into outFile.
+and when i ran it, it worked, proving that the linker works between both C files.
+

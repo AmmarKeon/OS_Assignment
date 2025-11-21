@@ -1,0 +1,2 @@
+fork() is a system call that lets us clone a process.
+it reads the parent process first, then it reads the child process, which is always 0.

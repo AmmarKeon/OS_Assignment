@@ -1,0 +1,5 @@
+just like the first two exercises, we used the sleep 300 command to create a fake process, and we looked up its PID through the ps aux command.
+then we "kill -STOP" the process, to pause it, we recheck using ps aux, and it says its stopped.
+then we "kill -CONT" to resume it, since it was in pause state.
+again we check with ps aux and it's working again.
+

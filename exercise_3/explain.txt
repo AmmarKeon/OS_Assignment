@@ -1,0 +1,5 @@
+first we create the a process and let it wait for 300 seconds, and let it run in the background like the last exercise, 
+then we search for all the processes that are "sleeping" using ps aux, to search for a specific keyword we use "grep" and then "sleep"
+which will show us the process we just started, sleep 300.
+we then kill the process, since ps aux, showed us the PID of the sleep 300.
+then we recheck if the process has been terminated successfully or not by doing "ps aux | grep sleep" again.

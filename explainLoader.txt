@@ -1,0 +1,4 @@
+Loader is the last step before executing the program in the CPU.
+the loader takes the executable file from the HDD and loads it into memory,
+and makes it ready to be executed by CPU.
+

@@ -1,0 +1,8 @@
+this tast wanted to try the linking process on the operating system.
+so i changed the "hello from file1" to "farewell from file1".
+and in the screenshots folder there is a picture with the previous link,
+and the new linking, also copied the files to the task folder, and then edited file1.c
+and then made the object file and ran it.
+
+proving that the linker works between both files, even after modification.
+

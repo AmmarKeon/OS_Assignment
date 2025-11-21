@@ -1,0 +1,4 @@
+"sleep 300" creates a process that waits for 300 seconds, the following "&" is for the process to continue in the background not the foreground
+the "jobs" command lists the processes the shell i'm currently using, is handling.
+
+
